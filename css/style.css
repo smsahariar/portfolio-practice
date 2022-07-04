@@ -56,3 +56,22 @@ p {
   background-position: right;
 }
 /*dream section complete*/
+/*Experience Section Start*/
+.experience {
+  background-image: url("../images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.exp-left {
+  border-left: 8px solid tomato;
+  padding: 10px 10px 50px 20px;
+  margin-left: 70px;
+  box-shadow: 10px 10px 40px grey;
+}
+.exp-right {
+  border-left: 8px solid blue;
+  padding: 10px 10px 50px 20px;
+  margin-left: 70px;
+  box-shadow: 10px 10px 40px grey;
+}
+/*experience section complete*/
