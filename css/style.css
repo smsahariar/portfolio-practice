@@ -27,6 +27,9 @@ p {
   padding-left: 5%;
   margin-left: 2%;
 }
+.flexible-div > img {
+  width: 100%;
+}
 .spcl-clr {
   color: orange;
 }
@@ -44,6 +47,12 @@ p {
   background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
 }
-.flexible-div > .banner-image {
-  width: 100%;
+
+/*banner complete*/
+/*dream section start*/
+.dream {
+  background-image: url("../images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
+/*dream section complete*/
